@@ -1,0 +1,17 @@
+p {
+    margin: 0;
+}
+
+.siswa {
+    background-color: gainsboro;
+    padding: 10px 15px;
+    color: #F3F4F6;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
+p.siswa:hover {
+    color: #111827;
+    background-color: #E5E7EB;
+}
